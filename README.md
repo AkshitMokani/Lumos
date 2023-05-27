@@ -1,1 +1,3 @@
 # Lumos
+
+Lottery Smart Contract.
